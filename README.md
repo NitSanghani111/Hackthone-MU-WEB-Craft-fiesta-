@@ -49,10 +49,12 @@ With smooth animations and a responsive design, it’s perfect for healthcare in
 https://github.com/NitSanghani111/Helthcare/issues/1#issuecomment-2486411069
 
 ### 📅 Appointment Booking  
-[![Appointment Booking](https://nitsanghani111.github.io/Hackthone-MU-WEB-Craft-fiesta-/)
+[![Appointment Booking](![Image](https://github.com/user-attachments/assets/0a83f399-5bf8-427a-b5cf-8274d6c81af8)
+
+![Image](https://github.com/user-attachments/assets/0af045c9-0a38-4bd1-a132-e9bd062f7b6c))
 
 ### 🩺 Doctor Dashboard  
-[![Landing Page](https://github.com/NitSanghani111/Helthcare/issues/1#issuecomment-2486411069)](https://github.com/NitSanghani111/Helthcare/issues/1#issue-2673071267)
+[![Landing Page](![Image](https://github.com/user-attachments/assets/0a83f399-5bf8-427a-b5cf-8274d6c81af8))
 
 ---
 
