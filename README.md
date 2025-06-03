@@ -3,6 +3,7 @@
 title: "🏥 Hospital Informatics Website 💉🩺"
 output: html_document
 ---
+### Live [/NitSanghani111](url)
 
 # Welcome to the **Hospital Informatics** project!  
 Manage appointments and streamline patient-doctor communication with ease. 🌟  
@@ -70,8 +71,7 @@ https://github.com/NitSanghani111/Helthcare/issues/1#issuecomment-2486411069
 
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/yourusername/hospital-informatics.git
-   cd hospital-informatics
+   git clone https://github.com/NitSanghani111/Hackthone-MU-WEB-Craft-fiesta.git
 
 
 
