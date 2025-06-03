@@ -3,7 +3,7 @@
 title: "🏥 Hospital Informatics Website 💉🩺"
 output: html_document
 ---
-### Live [/NitSanghani111](url)
+### Live [https://nitsanghani111.github.io/Hackthone-MU-WEB-Craft-fiesta-/](url)
 
 # Welcome to the **Hospital Informatics** project!  
 Manage appointments and streamline patient-doctor communication with ease. 🌟  
