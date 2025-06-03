@@ -46,7 +46,8 @@ With smooth animations and a responsive design, it’s perfect for healthcare in
 ## 🎨 Screenshots
 
 ### 🏥 Landing Page  
-https://github.com/NitSanghani111/Helthcare/issues/1#issuecomment-2486411069
+![Image](https://github.com/user-attachments/assets/11ab9a06-16ee-4407-be6d-1f53706e0350)
+
 
 ### 📅 Appointment Booking  
 [![Appointment Booking](![Image](https://github.com/user-attachments/assets/0a83f399-5bf8-427a-b5cf-8274d6c81af8)
